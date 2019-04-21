@@ -47,4 +47,4 @@ El formulario te pedira:
 
 ![](https://i.postimg.cc/brxY1ZrY/Captura2.png)
 
-    Este proyecto fue creardo con mis nociones basicas de PHP y sera mejorado conforme este aprendiendo mas, puede que tenga malas practicas este proyecto pero se corregirán en futuras versiones 
+Este proyecto fue creardo con mis nociones basicas de PHP y sera mejorado conforme este aprendiendo mas, puede que tenga malas practicas este proyecto pero se corregirán en futuras versiones 
