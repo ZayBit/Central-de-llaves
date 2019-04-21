@@ -16,6 +16,10 @@ Aveces me pasa que tengo muchas cuentas en distintos sitios y no logro recordar 
 
 Una vez sea creada la conexion correctamente ya se podra utilizar este proyecto y no volvera a aparecer este apartado de **Configuracion inicial**
 
+**Es importante cambiar la ruta si exiten problemas de la ruta y cambiar el numero de llaves a mostrar**
+
+![](https://i.postimg.cc/K8Zy4ZTb/111.png)
+
 ### Para comenzar hay que registrarse para crear nuestras propias llaves en este formulario de registro
 
 ![](https://i.postimg.cc/X7g7JBtQ/Captura4.png)
