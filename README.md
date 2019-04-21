@@ -16,7 +16,7 @@ Aveces me pasa que tengo muchas cuentas en distintos sitios y no logro recordar 
 
 Una vez sea creada la conexion correctamente ya se podra utilizar este proyecto y no volvera a aparecer este apartado de **Configuracion inicial**
 
-**Es importante cambiar la ruta si exiten problemas de la ruta y cambiar el numero de llaves a mostrar en archivo Config.php**
+**Es importante cambiar la ruta si exiten problemas de la ruta y cambiar el numero de llaves a mostrar en el archivo Config.php**
 
 ![](https://i.postimg.cc/K8Zy4ZTb/111.png)
 
